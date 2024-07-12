@@ -10,3 +10,4 @@ The base App of Laminar Terminal (WIP)
 - [ ] Discord rich pressence
 - [ ] Different Themes via CSS or SCSS
 - [ ] Crosscompiled to Linux and Windows from the get go
+- [ ] Code sharing using github gist
